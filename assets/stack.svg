@@ -1,39 +1,55 @@
-<svg width="1200" height="245" viewBox="0 0 1200 245" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="line" x1="95" y1="120" x2="1105" y2="120" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#38BDF8"/>
-      <stop offset="0.5" stop-color="#22C55E"/>
-      <stop offset="1" stop-color="#F97316"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="245" rx="22" fill="#08111F"/>
-  <rect x="1.5" y="1.5" width="1197" height="242" rx="20.5" stroke="#1E293B" stroke-width="3"/>
-  <path d="M125 121H1075" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="head" x1="80" y1="60" x2="1120" y2="60" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#38BDF8"/>
+    <stop offset=".48" stop-color="#A78BFA"/>
+    <stop offset="1" stop-color="#FB923C"/>
+  </linearGradient>
+  <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="160%">
+    <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000" flood-opacity=".3"/>
+  </filter>
+</defs>
+<rect width="1200" height="330" rx="25" fill="#060D18"/>
+<rect x="1.5" y="1.5" width="1197" height="327" rx="23.5" stroke="#1E293B" stroke-width="3"/>
+<text x="56" y="55" fill="url(#head)" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="750">ENGINEERING TOOLKIT</text>
+<text x="56" y="82" fill="#64748B" font-family="JetBrains Mono, monospace" font-size="14">the technologies I use to move from idea → production</text>
 
-  <g font-family="JetBrains Mono, monospace">
-    <g transform="translate(150 121)">
-      <circle r="35" fill="#0F172A" stroke="#38BDF8" stroke-width="3"/>
-      <circle r="8" fill="#38BDF8"/>
-      <text x="-59" y="66" fill="#E2E8F0" font-size="16">IDEATE</text>
-      <text x="-86" y="91" fill="#64748B" font-size="13">useful problems</text>
-    </g>
-    <g transform="translate(450 121)">
-      <circle r="35" fill="#0F172A" stroke="#22C55E" stroke-width="3"/>
-      <rect x="-9" y="-9" width="18" height="18" rx="3" fill="#22C55E"/>
-      <text x="-48" y="66" fill="#E2E8F0" font-size="16">BUILD</text>
-      <text x="-89" y="91" fill="#64748B" font-size="13">clean systems</text>
-    </g>
-    <g transform="translate(750 121)">
-      <circle r="35" fill="#0F172A" stroke="#FACC15" stroke-width="3"/>
-      <path d="M-11 0L-3 8L13-10" stroke="#FACC15" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-      <text x="-42" y="66" fill="#E2E8F0" font-size="16">VERIFY</text>
-      <text x="-82" y="91" fill="#64748B" font-size="13">test the flow</text>
-    </g>
-    <g transform="translate(1050 121)">
-      <circle r="35" fill="#0F172A" stroke="#F97316" stroke-width="3"/>
-      <path d="M-11 11L12-12M-3-12H12V3" stroke="#F97316" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-      <text x="-37" y="66" fill="#E2E8F0" font-size="16">SHIP</text>
-      <text x="-83" y="91" fill="#64748B" font-size="13">learn and improve</text>
-    </g>
+<g filter="url(#cardShadow)" font-family="JetBrains Mono, monospace">
+  <g transform="translate(48 111)">
+    <rect width="258" height="174" rx="18" fill="#091827" stroke="#164E63"/>
+    <circle cx="27" cy="29" r="7" fill="#38BDF8"/>
+    <text x="45" y="35" fill="#BAE6FD" font-size="16" font-weight="700">AI / INTELLIGENCE</text>
+    <text x="24" y="76" fill="#E2E8F0" font-size="14">Python · RAG · Agents</text>
+    <text x="24" y="103" fill="#94A3B8" font-size="14">Tool calling · OpenAI</text>
+    <text x="24" y="130" fill="#94A3B8" font-size="14">Embeddings · ChromaDB</text>
+    <rect x="23" y="148" width="91" height="3" rx="1.5" fill="#38BDF8"/>
   </g>
+  <g transform="translate(330 111)">
+    <rect width="258" height="174" rx="18" fill="#111126" stroke="#4C1D95"/>
+    <circle cx="27" cy="29" r="7" fill="#A78BFA"/>
+    <text x="45" y="35" fill="#DDD6FE" font-size="16" font-weight="700">PRODUCT / UI</text>
+    <text x="24" y="76" fill="#E2E8F0" font-size="14">Next.js · React</text>
+    <text x="24" y="103" fill="#94A3B8" font-size="14">TypeScript · Tailwind</text>
+    <text x="24" y="130" fill="#94A3B8" font-size="14">Vite · Responsive UX</text>
+    <rect x="23" y="148" width="116" height="3" rx="1.5" fill="#A78BFA"/>
+  </g>
+  <g transform="translate(612 111)">
+    <rect width="258" height="174" rx="18" fill="#0B1815" stroke="#14532D"/>
+    <circle cx="27" cy="29" r="7" fill="#34D399"/>
+    <text x="45" y="35" fill="#BBF7D0" font-size="16" font-weight="700">BACKEND / DATA</text>
+    <text x="24" y="76" fill="#E2E8F0" font-size="14">Node.js · Express</text>
+    <text x="24" y="103" fill="#94A3B8" font-size="14">Postgres · MongoDB</text>
+    <text x="24" y="130" fill="#94A3B8" font-size="14">Prisma · Supabase</text>
+    <rect x="23" y="148" width="142" height="3" rx="1.5" fill="#34D399"/>
+  </g>
+  <g transform="translate(894 111)">
+    <rect width="258" height="174" rx="18" fill="#1A120B" stroke="#7C2D12"/>
+    <circle cx="27" cy="29" r="7" fill="#FB923C"/>
+    <text x="45" y="35" fill="#FED7AA" font-size="16" font-weight="700">DELIVERY / CLOUD</text>
+    <text x="24" y="76" fill="#E2E8F0" font-size="14">Git · GitHub Actions</text>
+    <text x="24" y="103" fill="#94A3B8" font-size="14">Docker · Vercel</text>
+    <text x="24" y="130" fill="#94A3B8" font-size="14">AWS · CI/CD</text>
+    <rect x="23" y="148" width="164" height="3" rx="1.5" fill="#FB923C"/>
+  </g>
+</g>
 </svg>
