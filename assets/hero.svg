@@ -1,0 +1,60 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.52" stop-color="#0B172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="90" y1="55" x2="1080" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.52" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#1E293B" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)" opacity="0.58"/>
+  <rect x="1.5" y="1.5" width="1197" height="357" rx="22.5" stroke="url(#accent)" stroke-width="3" opacity="0.78"/>
+
+  <g opacity="0.9">
+    <circle cx="72" cy="52" r="7" fill="#F97316"/>
+    <circle cx="96" cy="52" r="7" fill="#FACC15"/>
+    <circle cx="120" cy="52" r="7" fill="#22C55E"/>
+    <text x="150" y="59" fill="#64748B" font-family="JetBrains Mono, monospace" font-size="18">ved@github:~/profile</text>
+  </g>
+
+  <g opacity="0.26">
+    <path d="M785 76H1064M785 112H1130M785 148H1026M785 184H1102M785 220H1150M785 256H1048" stroke="#38BDF8" stroke-width="2"/>
+    <circle cx="775" cy="76" r="5" fill="#38BDF8">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="775" cy="148" r="5" fill="#22C55E">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="775" cy="220" r="5" fill="#F97316">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text x="72" y="142" fill="#E2E8F0" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="600" letter-spacing="3">HELLO, I’M</text>
+  <text x="68" y="224" fill="url(#accent)" filter="url(#glow)" font-family="Inter, Arial, sans-serif" font-size="74" font-weight="800">VED PATEL</text>
+  <text x="72" y="274" fill="#CBD5E1" font-family="JetBrains Mono, monospace" font-size="22">AI systems · full-stack products · useful automation</text>
+
+  <g transform="translate(790 292)">
+    <rect x="0" y="-29" width="330" height="48" rx="12" fill="#0F172A" stroke="#334155"/>
+    <circle cx="25" cy="-5" r="7" fill="#22C55E">
+      <animate attributeName="r" values="6;9;6" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="45" y="2" fill="#D1FAE5" font-family="JetBrains Mono, monospace" font-size="17">Toronto · building what matters</text>
+  </g>
+</svg>

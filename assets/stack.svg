@@ -1,0 +1,39 @@
+<svg width="1200" height="245" viewBox="0 0 1200 245" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="95" y1="120" x2="1105" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="245" rx="22" fill="#08111F"/>
+  <rect x="1.5" y="1.5" width="1197" height="242" rx="20.5" stroke="#1E293B" stroke-width="3"/>
+  <path d="M125 121H1075" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+
+  <g font-family="JetBrains Mono, monospace">
+    <g transform="translate(150 121)">
+      <circle r="35" fill="#0F172A" stroke="#38BDF8" stroke-width="3"/>
+      <circle r="8" fill="#38BDF8"/>
+      <text x="-59" y="66" fill="#E2E8F0" font-size="16">IDEATE</text>
+      <text x="-86" y="91" fill="#64748B" font-size="13">useful problems</text>
+    </g>
+    <g transform="translate(450 121)">
+      <circle r="35" fill="#0F172A" stroke="#22C55E" stroke-width="3"/>
+      <rect x="-9" y="-9" width="18" height="18" rx="3" fill="#22C55E"/>
+      <text x="-48" y="66" fill="#E2E8F0" font-size="16">BUILD</text>
+      <text x="-89" y="91" fill="#64748B" font-size="13">clean systems</text>
+    </g>
+    <g transform="translate(750 121)">
+      <circle r="35" fill="#0F172A" stroke="#FACC15" stroke-width="3"/>
+      <path d="M-11 0L-3 8L13-10" stroke="#FACC15" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="-42" y="66" fill="#E2E8F0" font-size="16">VERIFY</text>
+      <text x="-82" y="91" fill="#64748B" font-size="13">test the flow</text>
+    </g>
+    <g transform="translate(1050 121)">
+      <circle r="35" fill="#0F172A" stroke="#F97316" stroke-width="3"/>
+      <path d="M-11 11L12-12M-3-12H12V3" stroke="#F97316" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="-37" y="66" fill="#E2E8F0" font-size="16">SHIP</text>
+      <text x="-83" y="91" fill="#64748B" font-size="13">learn and improve</text>
+    </g>
+  </g>
+</svg>
