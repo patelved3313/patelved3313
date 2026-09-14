@@ -1,193 +1,118 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Ved Patel — AI and full-stack engineer"/>
+  <img src="./assets/hero.svg" width="100%" alt="Ved Patel — AI and full-stack developer in Toronto. Complex problems. Thoughtful software." />
+
+  <br /><br />
+
+  <a href="mailto:patelved3313@gmail.com"><img src="https://img.shields.io/badge/LET%27S_TALK-D5FF70?style=for-the-badge&amp;logo=gmail&amp;logoColor=101210" alt="Email Ved" /></a>
+  &nbsp;
+  <a href="https://github.com/patelved3313?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-191D18?style=for-the-badge&amp;logo=github&amp;logoColor=D5FF70" alt="Explore my repositories" /></a>
+
+  <br /><br />
+
+  <a href="#about">About</a> &nbsp; / &nbsp;
+  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
+  <a href="#currently">Currently</a>
 </div>
 
-<br/>
+<br />
 
-<div align="center">
+## About
 
-[![Email](https://img.shields.io/badge/EMAIL-patelved3313%40gmail.com-07111F?style=for-the-badge&logo=gmail&logoColor=FB7185&labelColor=07111F)](mailto:patelved3313@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-patelved3313-07111F?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=07111F)](https://github.com/patelved3313)
-![Location](https://img.shields.io/badge/TORONTO-CANADA-07111F?style=for-the-badge&logo=googlemaps&logoColor=38BDF8&labelColor=07111F)
-![Focus](https://img.shields.io/badge/FOCUS-AI_%2B_FULL_STACK-07111F?style=for-the-badge&logo=sparkles&logoColor=A78BFA&labelColor=07111F)
+I’m **Ved**, a Computer Engineering student at **Seneca Polytechnic** in Toronto. I build AI-powered and full-stack products, connecting thoughtful interfaces with the systems that make them work.
 
-</div>
+My favorite part is turning a complicated problem into something clear and useful: from authentication and data models to AI integrations, testing, and deployment.
 
-<br/>
+**Think it through. Build with care. Ship something useful.**
 
-<table>
-<tr>
-<td width="58%" valign="top">
+<br />
 
-## About me
+## Selected work
 
-I’m a **Computer Engineering student at Seneca Polytechnic** focused on building AI-powered and full-stack products.
-
-I like projects that solve real problems—not isolated demos. My work usually combines thoughtful UI, authentication, APIs, data modeling, AI integrations, testing, and production deployment.
-
-```ts
-const currentMission = {
-  build: "useful, production-minded software",
-  learn: ["AI agents", "RAG", "system design"],
-  improve: ["reliability", "UX", "scalability"],
-  approach: "understand → build → verify → ship"
-};
-```
-
-</td>
-<td width="42%" valign="top">
-
-## Current direction
-
-```text
-[01] AI ENGINEERING
-     RAG, agents, tool calling,
-     intelligent workflows
-
-[02] FULL-STACK SYSTEMS
-     TypeScript, Next.js, APIs,
-     databases, authentication
-
-[03] PRODUCT ENGINEERING
-     useful ideas, clean UX,
-     deployment and iteration
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <img src="./assets/stack.svg" width="100%" alt="Ved Patel engineering toolkit"/>
-</div>
-
-<br/>
-
-## Selected builds
+Four projects. Different problems. The same care for the details.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏙️ [Toronto Student Housing Matrix](https://github.com/vspatel23/Toronto-student-housing-matrix)
+<a href="https://github.com/vspatel23/Toronto-student-housing-matrix"><img src="./assets/project-housing.svg" width="100%" alt="Toronto Student Housing Matrix — explore the repository" /></a>
 
-**Decision support for student housing in Toronto**
+### [A better way to find home](https://github.com/vspatel23/Toronto-student-housing-matrix)
 
-Compares housing by rent, commute, safety, amenities, saved preferences, maps, and value-based ranking.
+Compare Toronto student housing by rent, commute, safety, and amenities, with maps, saved preferences, and value-based rankings.
 
-`React` `Vite` `Express` `MongoDB` `JWT` `CI/CD`
+`React` `Express` `MongoDB` `JWT`
 
 </td>
 <td width="50%" valign="top">
 
-### 🍽️ [ReserveOS](https://github.com/patelved3313/restaurant-reservation-system)
+<a href="https://github.com/patelved3313/restaurant-reservation-system"><img src="./assets/project-reserve.svg" width="100%" alt="ReserveOS — explore the repository" /></a>
 
-**AI-ready restaurant reservation operations**
+### [Every table, thoughtfully managed](https://github.com/patelved3313/restaurant-reservation-system)
 
-Secure owner/admin access, multi-location management, availability validation, reservation workflows, and a voice reservation API.
+Restaurant reservation operations with secure owner/admin access, multi-location management, availability checks, and a voice reservation API.
 
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Prisma`
+`Next.js` `TypeScript` `Supabase` `Prisma`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📡 [LifeRadar AI](https://github.com/patelved3313/liferadar-ai)
+<a href="https://github.com/patelved3313/liferadar-ai"><img src="./assets/project-liferadar.svg" width="100%" alt="LifeRadar AI — explore the repository" /></a>
 
-**A privacy-conscious life-admin copilot**
+### [Less life admin. More life.](https://github.com/patelved3313/liferadar-ai)
 
-Tracks bills, subscriptions, expenses, expiring documents, and important deadlines without requesting bank access.
+A privacy-conscious copilot for bills, subscriptions, expenses, expiring documents, and deadlines, without requesting bank access.
 
-`Next.js` `Firebase Auth` `Firestore` `TypeScript` `Vercel`
+`Next.js` `Firebase Auth` `Firestore` `TypeScript`
 
 </td>
 <td width="50%" valign="top">
 
-### 🧪 [Ved Chem Digital Platform](https://github.com/patelved3313/vedchem-redesign)
+<a href="https://github.com/patelved3313/vedchem-redesign"><img src="./assets/project-vedchem.svg" width="100%" alt="Ved Chem Digital Platform — explore the repository" /></a>
 
-**A modern industrial product and RFQ experience**
+### [Industrial products, clearer paths](https://github.com/patelved3313/vedchem-redesign)
 
-Structured product discovery, detailed product pages, RFQ workflows, WhatsApp contact, and multilingual-ready routing.
+Product discovery and detailed specifications, connected to RFQ workflows, WhatsApp contact, and multilingual-ready routing.
 
-`Next.js` `TypeScript` `Tailwind` `Prisma` `API Routes`
+`Next.js` `TypeScript` `Tailwind` `Prisma`
 
 </td>
 </tr>
 </table>
 
-<br/>
+<br />
 
-## How I build
+## Toolkit
 
-```mermaid
-flowchart LR
-    A["Understand the problem"] --> B["Design the experience"]
-    B --> C["Model the system"]
-    C --> D["Build the product"]
-    D --> E["Test the full flow"]
-    E --> F["Deploy & improve"]
+<img src="./assets/stack.svg" width="100%" alt="Interface: TypeScript, React, Next.js, Tailwind CSS, Vite. Systems: Node.js, Express, Python, PostgreSQL, MongoDB, Prisma. Delivery: Git, GitHub Actions, Docker, Vercel, AWS, CI/CD." />
 
-    classDef start fill:#081827,stroke:#38BDF8,stroke-width:2px,color:#E0F2FE
-    classDef middle fill:#111126,stroke:#A78BFA,stroke-width:2px,color:#EDE9FE
-    classDef finish fill:#1A120B,stroke:#FB923C,stroke-width:2px,color:#FFEDD5
+<details>
+<summary><b>A little more under the hood</b></summary>
+<br />
 
-    class A,B start
-    class C,D,E middle
-    class F finish
-```
+| Area | Tools & interests |
+| :--- | :--- |
+| Languages | TypeScript, JavaScript, Python, Java, C, C++, HTML, CSS |
+| AI exploration | RAG, agents, tool calling, embeddings, ChromaDB |
+| Auth & data | Supabase, Firebase, PostgreSQL, MongoDB, Prisma |
+| Daily workflow | Git, GitHub, Docker, GitHub Actions, VS Code, Postman |
 
-<br/>
+</details>
 
-## Tools I work with
+<br />
 
-<div align="center">
+## Currently
 
-**Languages**
+**Exploring** → AI agents, retrieval-augmented generation, and system design.<br />
+**Sharpening** → Reliability, user experience, and scalability.<br />
+**Building toward** → Useful software that holds up beyond the demo.
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,java,c,cpp,html,css&perline=8&theme=dark" alt="Languages"/>
+<br />
 
-<br/><br/>
-
-**Frameworks & data**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,prisma,supabase,firebase,mongodb,postgres&perline=10&theme=dark" alt="Frameworks and databases"/>
-
-<br/><br/>
-
-**Cloud & workflow**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,vercel,aws,vscode,postman&perline=8&theme=dark" alt="Cloud and development tools"/>
-
-</div>
-
-<br/>
-
-## GitHub activity
+<a href="mailto:patelved3313@gmail.com"><img src="./assets/footer.svg" width="100%" alt="Let’s build something that matters. Email Ved at patelved3313@gmail.com." /></a>
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=patelved3313&show_icons=true&hide_border=true&rank_icon=github&bg_color=060D18&title_color=38BDF8&text_color=CBD5E1&icon_color=A78BFA&ring_color=FB923C" alt="Ved Patel GitHub stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=patelved3313&hide_border=true&background=060D18&ring=38BDF8&fire=FB923C&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Ved Patel GitHub streak"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=patelved3313&bg_color=060D18&color=94A3B8&line=38BDF8&point=FB923C&area=true&area_color=10243A&hide_border=true&radius=8&custom_title=Contribution%20Activity" alt="Ved Patel contribution graph"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### Build something useful. Make it reliable. Ship it.
-
-![Profile views](https://komarev.com/ghpvc/?username=patelved3313&label=PROFILE+VIEWS&color=0ea5e9&style=flat-square)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/patelved3313?label=FOLLOWERS&style=flat-square&color=8b5cf6&labelColor=07111F)
-&nbsp;
-![Stars](https://img.shields.io/github/stars/patelved3313?label=STARS&style=flat-square&color=f97316&labelColor=07111F)
-
+  <sub>Made with intention. Improved with every commit.</sub>
 </div>

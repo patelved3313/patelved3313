@@ -1,55 +1,7 @@
-<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
-<defs>
-  <linearGradient id="head" x1="80" y1="60" x2="1120" y2="60" gradientUnits="userSpaceOnUse">
-    <stop stop-color="#38BDF8"/>
-    <stop offset=".48" stop-color="#A78BFA"/>
-    <stop offset="1" stop-color="#FB923C"/>
-  </linearGradient>
-  <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="160%">
-    <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000" flood-opacity=".3"/>
-  </filter>
-</defs>
-<rect width="1200" height="330" rx="25" fill="#060D18"/>
-<rect x="1.5" y="1.5" width="1197" height="327" rx="23.5" stroke="#1E293B" stroke-width="3"/>
-<text x="56" y="55" fill="url(#head)" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="750">ENGINEERING TOOLKIT</text>
-<text x="56" y="82" fill="#64748B" font-family="JetBrains Mono, monospace" font-size="14">the technologies I use to move from idea → production</text>
-
-<g filter="url(#cardShadow)" font-family="JetBrains Mono, monospace">
-  <g transform="translate(48 111)">
-    <rect width="258" height="174" rx="18" fill="#091827" stroke="#164E63"/>
-    <circle cx="27" cy="29" r="7" fill="#38BDF8"/>
-    <text x="45" y="35" fill="#BAE6FD" font-size="16" font-weight="700">AI / INTELLIGENCE</text>
-    <text x="24" y="76" fill="#E2E8F0" font-size="14">Python · RAG · Agents</text>
-    <text x="24" y="103" fill="#94A3B8" font-size="14">Tool calling · OpenAI</text>
-    <text x="24" y="130" fill="#94A3B8" font-size="14">Embeddings · ChromaDB</text>
-    <rect x="23" y="148" width="91" height="3" rx="1.5" fill="#38BDF8"/>
-  </g>
-  <g transform="translate(330 111)">
-    <rect width="258" height="174" rx="18" fill="#111126" stroke="#4C1D95"/>
-    <circle cx="27" cy="29" r="7" fill="#A78BFA"/>
-    <text x="45" y="35" fill="#DDD6FE" font-size="16" font-weight="700">PRODUCT / UI</text>
-    <text x="24" y="76" fill="#E2E8F0" font-size="14">Next.js · React</text>
-    <text x="24" y="103" fill="#94A3B8" font-size="14">TypeScript · Tailwind</text>
-    <text x="24" y="130" fill="#94A3B8" font-size="14">Vite · Responsive UX</text>
-    <rect x="23" y="148" width="116" height="3" rx="1.5" fill="#A78BFA"/>
-  </g>
-  <g transform="translate(612 111)">
-    <rect width="258" height="174" rx="18" fill="#0B1815" stroke="#14532D"/>
-    <circle cx="27" cy="29" r="7" fill="#34D399"/>
-    <text x="45" y="35" fill="#BBF7D0" font-size="16" font-weight="700">BACKEND / DATA</text>
-    <text x="24" y="76" fill="#E2E8F0" font-size="14">Node.js · Express</text>
-    <text x="24" y="103" fill="#94A3B8" font-size="14">Postgres · MongoDB</text>
-    <text x="24" y="130" fill="#94A3B8" font-size="14">Prisma · Supabase</text>
-    <rect x="23" y="148" width="142" height="3" rx="1.5" fill="#34D399"/>
-  </g>
-  <g transform="translate(894 111)">
-    <rect width="258" height="174" rx="18" fill="#1A120B" stroke="#7C2D12"/>
-    <circle cx="27" cy="29" r="7" fill="#FB923C"/>
-    <text x="45" y="35" fill="#FED7AA" font-size="16" font-weight="700">DELIVERY / CLOUD</text>
-    <text x="24" y="76" fill="#E2E8F0" font-size="14">Git · GitHub Actions</text>
-    <text x="24" y="103" fill="#94A3B8" font-size="14">Docker · Vercel</text>
-    <text x="24" y="130" fill="#94A3B8" font-size="14">AWS · CI/CD</text>
-    <rect x="23" y="148" width="164" height="3" rx="1.5" fill="#FB923C"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="218" viewBox="0 0 1200 218" fill="none" role="img" aria-labelledby="title">
+<title id="title">Toolkit: TypeScript, React, Next.js, Tailwind CSS, Vite, Node.js, Express, Python, PostgreSQL, MongoDB, Prisma, Git, GitHub Actions, Docker, Vercel, AWS, and CI/CD.</title>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="0" y="0" width="1200" height="218" rx="20" fill="#101210" stroke="none"/>
+<text x="38" y="47" fill="#D5FF70" font-size="15" font-weight="700" letter-spacing="3">THE TOOLKIT</text><text x="1162" y="47" fill="#A8B09F" font-size="13" font-weight="400" text-anchor="end" letter-spacing="2">IDEAS, MEET IMPLEMENTATION.</text><path d="M38 71L1162 71" stroke="#343B31" /><text x="38" y="113" fill="#D5FF70" font-size="14" font-weight="700" letter-spacing="1">01 / INTERFACE</text><text x="38" y="151" fill="#F1F3E8" font-size="20" font-weight="400" >TypeScript · React · Next.js</text><text x="38" y="183" fill="#A8B09F" font-size="17" font-weight="400" >Tailwind CSS · Vite</text><path d="M404 99L404 191" stroke="#343B31" /><text x="424" y="113" fill="#D5FF70" font-size="14" font-weight="700" letter-spacing="1">02 / SYSTEMS</text><text x="424" y="151" fill="#F1F3E8" font-size="20" font-weight="400" >Node.js · Express · Python</text><text x="424" y="183" fill="#A8B09F" font-size="17" font-weight="400" >PostgreSQL · MongoDB · Prisma</text><path d="M790 99L790 191" stroke="#343B31" /><text x="810" y="113" fill="#D5FF70" font-size="14" font-weight="700" letter-spacing="1">03 / DELIVERY</text><text x="810" y="151" fill="#F1F3E8" font-size="20" font-weight="400" >Git · GitHub Actions · Docker</text><text x="810" y="183" fill="#A8B09F" font-size="17" font-weight="400" >Vercel · AWS · CI/CD</text>
 </g>
 </svg>
