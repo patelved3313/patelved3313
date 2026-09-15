@@ -5,7 +5,7 @@
 
 **[Explore my work](#selected-work)** &nbsp; · &nbsp; **[Email me](mailto:patelved3313@gmail.com)**
 
-[About](#about) &nbsp; / &nbsp; [Toolkit](#toolkit) &nbsp; / &nbsp; [Now](#now)
+[About](#about) &nbsp; / &nbsp; [Toolkit](#toolkit) &nbsp; / &nbsp; [Activity](#github-activity) &nbsp; / &nbsp; [Now](#now)
 
 ## About
 
@@ -59,6 +59,19 @@ A restaurant operations MVP with owner/admin access, multiple locations, and res
 **APIs & data** — Node.js, Express, PostgreSQL, MongoDB, Prisma.<br />
 **Auth & delivery** — Supabase, Firebase, Git, GitHub Actions, Vercel.<br />
 **Applied AI** — LLM integrations, structured outputs, and response validation.
+
+## GitHub activity
+
+Contribution streaks and the last 31 days of activity.
+
+<a href="https://github.com/patelved3313?tab=overview">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/activity-mobile.svg" />
+    <img src="./assets/activity.svg" width="100%" alt="Ved’s GitHub activity: current and longest daily contribution streaks, plus a graph of contributions over the last 31 days. The graphic includes its last refresh date." />
+  </picture>
+</a>
+
+[View contribution history on GitHub](https://github.com/patelved3313?tab=overview)
 
 ## Now
 
