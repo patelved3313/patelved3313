@@ -1,118 +1,73 @@
-<div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Ved Patel — AI and full-stack developer in Toronto. Complex problems. Thoughtful software." />
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg" />
+  <img src="./assets/hero.svg" width="100%" alt="Ved Patel — software engineer in Toronto. Complex problems. Thoughtful software." />
+</picture>
 
-  <br /><br />
+**[Explore my work](#selected-work)** &nbsp; · &nbsp; **[Email me](mailto:patelved3313@gmail.com)**
 
-  <a href="mailto:patelved3313@gmail.com"><img src="https://img.shields.io/badge/LET%27S_TALK-D5FF70?style=for-the-badge&amp;logo=gmail&amp;logoColor=101210" alt="Email Ved" /></a>
-  &nbsp;
-  <a href="https://github.com/patelved3313?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-191D18?style=for-the-badge&amp;logo=github&amp;logoColor=D5FF70" alt="Explore my repositories" /></a>
-
-  <br /><br />
-
-  <a href="#about">About</a> &nbsp; / &nbsp;
-  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
-  <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
-  <a href="#currently">Currently</a>
-</div>
-
-<br />
+[About](#about) &nbsp; / &nbsp; [Toolkit](#toolkit) &nbsp; / &nbsp; [Now](#now)
 
 ## About
 
-I’m **Ved**, a Computer Engineering student at **Seneca Polytechnic** in Toronto. I build AI-powered and full-stack products, connecting thoughtful interfaces with the systems that make them work.
+I’m **Ved Patel**, a product-minded software engineer in Toronto and a recent **Seneca Polytechnic graduate**. I build AI-powered and full-stack products, from the interface people use to the APIs and data models underneath.
 
-My favorite part is turning a complicated problem into something clear and useful: from authentication and data models to AI integrations, testing, and deployment.
-
-**Think it through. Build with care. Ship something useful.**
-
-<br />
+I’m interested in the decisions that make software useful: what to automate, how to model the problem, and what should happen when a request fails. Clear interfaces, validated data, and testable behavior matter to me.
 
 ## Selected work
 
-Four projects. Different problems. The same care for the details.
+### [Toronto Student Housing Matrix](https://github.com/patelved3313/Toronto-student-housing-matrix)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/patelved3313/Toronto-student-housing-matrix"><img src="./assets/project-housing.svg" width="100%" alt="Housing decision support — comparing rent, commute estimates, and value on a map." /></a>
 
-<a href="https://github.com/vspatel23/Toronto-student-housing-matrix"><img src="./assets/project-housing.svg" width="100%" alt="Toronto Student Housing Matrix — explore the repository" /></a>
+**Compare the tradeoffs before choosing a place to live.**
 
-### [A better way to find home](https://github.com/vspatel23/Toronto-student-housing-matrix)
+A team capstone for comparing Toronto student housing by rent, estimated commute, and personal priorities. Natural-language search turns a housing brief into validated filters; AI comparison explains the shortlisted options.
 
-Compare Toronto student housing by rent, commute, safety, and amenities, with maps, saved preferences, and value-based rankings.
+JWT authentication, saved collections, adjustable scoring, and frontend/backend tests connect the experience to a complete system. GitHub Actions checks both applications. Uses course-project demo data.
 
-`React` `Express` `MongoDB` `JWT`
+`React` `Express` `MongoDB` `OpenRouter`
 
-</td>
-<td width="50%" valign="top">
+[Repository](https://github.com/patelved3313/Toronto-student-housing-matrix) &nbsp; · &nbsp; [Live demo](https://torontostudenthousingmatrix.vercel.app)
 
-<a href="https://github.com/patelved3313/restaurant-reservation-system"><img src="./assets/project-reserve.svg" width="100%" alt="ReserveOS — explore the repository" /></a>
+### [ReserveOS](https://github.com/patelved3313/restaurant-reservation-system)
 
-### [Every table, thoughtfully managed](https://github.com/patelved3313/restaurant-reservation-system)
+<a href="https://github.com/patelved3313/restaurant-reservation-system"><img src="./assets/project-reserve.svg" width="100%" alt="ReserveOS — a reservation book organized by day and time." /></a>
 
-Restaurant reservation operations with secure owner/admin access, multi-location management, availability checks, and a voice reservation API.
+**A shared reservation book for restaurant teams.**
 
-`Next.js` `TypeScript` `Supabase` `Prisma`
+A restaurant operations MVP with owner/admin access, multiple locations, and reservation management. Supabase sessions and Prisma queries scope access by restaurant; booking requests are checked against location opening hours. A JSON intake API provides an integration point for voice systems.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+`Next.js` `TypeScript` `PostgreSQL` `Prisma`
 
-<a href="https://github.com/patelved3313/liferadar-ai"><img src="./assets/project-liferadar.svg" width="100%" alt="LifeRadar AI — explore the repository" /></a>
+[Repository](https://github.com/patelved3313/restaurant-reservation-system)
 
-### [Less life admin. More life.](https://github.com/patelved3313/liferadar-ai)
+### [LifeRadar AI](https://github.com/patelved3313/liferadar-ai)
 
-A privacy-conscious copilot for bills, subscriptions, expenses, expiring documents, and deadlines, without requesting bank access.
+**Life admin, in one place.** An MVP for manually tracking bills, subscriptions, and expiring documents without bank access. Firebase Auth and Firestore support user-scoped records; the AI assistant currently uses mocked, rule-based responses.
 
-`Next.js` `Firebase Auth` `Firestore` `TypeScript`
+`Next.js` `TypeScript` `Firebase Auth` `Firestore`
 
-</td>
-<td width="50%" valign="top">
+### [Ved Chem](https://github.com/patelved3313/vedchem-redesign)
 
-<a href="https://github.com/patelved3313/vedchem-redesign"><img src="./assets/project-vedchem.svg" width="100%" alt="Ved Chem Digital Platform — explore the repository" /></a>
+**A clearer path from product discovery to inquiry.** A catalog and product-detail experience with a request-for-quote interface and locale-based routes. The inquiry API is a scaffold; persistence and delivery are future work.
 
-### [Industrial products, clearer paths](https://github.com/patelved3313/vedchem-redesign)
-
-Product discovery and detailed specifications, connected to RFQ workflows, WhatsApp contact, and multilingual-ready routing.
-
-`Next.js` `TypeScript` `Tailwind` `Prisma`
-
-</td>
-</tr>
-</table>
-
-<br />
+`Next.js` `TypeScript` `Tailwind CSS` &nbsp; · &nbsp; [Live preview](https://vedchem-redesign.vercel.app/en)
 
 ## Toolkit
 
-<img src="./assets/stack.svg" width="100%" alt="Interface: TypeScript, React, Next.js, Tailwind CSS, Vite. Systems: Node.js, Express, Python, PostgreSQL, MongoDB, Prisma. Delivery: Git, GitHub Actions, Docker, Vercel, AWS, CI/CD." />
+**Interface** — TypeScript, React, Next.js, Tailwind CSS.<br />
+**APIs & data** — Node.js, Express, PostgreSQL, MongoDB, Prisma.<br />
+**Auth & delivery** — Supabase, Firebase, Git, GitHub Actions, Vercel.<br />
+**Applied AI** — LLM integrations, structured outputs, and response validation.
 
-<details>
-<summary><b>A little more under the hood</b></summary>
-<br />
+## Now
 
-| Area | Tools & interests |
-| :--- | :--- |
-| Languages | TypeScript, JavaScript, Python, Java, C, C++, HTML, CSS |
-| AI exploration | RAG, agents, tool calling, embeddings, ChromaDB |
-| Auth & data | Supabase, Firebase, PostgreSQL, MongoDB, Prisma |
-| Daily workflow | Git, GitHub, Docker, GitHub Actions, VS Code, Postman |
-
-</details>
+**Exploring** how retrieval-augmented generation (RAG), embeddings, and tool-calling agents can make product features more useful.<br />
+**Sharpening** system design, failure handling, and the tests that keep an interface and its API in agreement.
 
 <br />
 
-## Currently
+<a href="mailto:patelved3313@gmail.com"><img src="./assets/footer.svg" width="600" alt="Let’s build something useful. Email Ved Patel." /></a>
 
-**Exploring** → AI agents, retrieval-augmented generation, and system design.<br />
-**Sharpening** → Reliability, user experience, and scalability.<br />
-**Building toward** → Useful software that holds up beyond the demo.
-
-<br />
-
-<a href="mailto:patelved3313@gmail.com"><img src="./assets/footer.svg" width="100%" alt="Let’s build something that matters. Email Ved at patelved3313@gmail.com." /></a>
-
-<div align="center">
-  <sub>Made with intention. Improved with every commit.</sub>
-</div>
+Open to conversations about software engineering roles and thoughtful product ideas.<br />
+**[patelved3313@gmail.com](mailto:patelved3313@gmail.com)**
