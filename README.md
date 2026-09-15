@@ -100,6 +100,8 @@ Explore a chemical supplier’s catalog through searchable categories, product d
   <a href="https://github.com/patelved3313?tab=overview"><img src="https://streak-stats.demolab.com/?user=patelved3313&amp;background=0B0F19&amp;border=283249&amp;stroke=283249&amp;ring=7C9CFF&amp;fire=AFC4FF&amp;currStreakNum=F5F7FA&amp;sideNums=F5F7FA&amp;currStreakLabel=AFC4FF&amp;sideLabels=98A2B3&amp;dates=98A2B3&amp;border_radius=12&amp;disable_animations=true" width="400" alt="Ved’s GitHub contribution streak: total contributions, current streak, and longest streak." /></a>
 </p>
 
+<a href="https://github.com/patelved3313?tab=overview"><img src="https://github.pumbas.net/api/contributions/patelved3313?colour=7C9CFF&amp;bgColour=0B0F19&amp;dotColour=283249&amp;borderRadius=12&amp;days=30" width="100%" alt="Ved’s GitHub contributions over the last 30 days, shown as a cobalt activity line on a Midnight Ink panel." /></a>
+
 <br />
 
 ## Now
