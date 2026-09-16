@@ -1,10 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="134" viewBox="0 0 600 134" fill="none" role="img" aria-labelledby="title">
-<title id="title">Let’s build something useful.</title>
-<rect width="600" height="134" rx="20" fill="#101210" />
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="192" viewBox="0 0 1200 192" fill="none" role="img" aria-labelledby="title">
+<title id="title">Let’s build something useful. Good ideas deserve careful execution. Email patelved3313@gmail.com.</title>
 <g font-family="Arial, Helvetica, sans-serif">
-  <text x="28" y="44" fill="#A8B09F" font-size="14" letter-spacing="2">HAVE SOMETHING IN MIND?</text>
-  <text x="28" y="91" fill="#F1F3E8" font-size="31" font-weight="700" letter-spacing="-.6">Let’s build something useful.</text>
+<rect x="0" y="0" width="1200" height="192" rx="20" fill="#0B0F19" stroke="none"/>
+<text x="42" y="48" fill="#7C9CFF" font-size="13" font-weight="700" letter-spacing="2">LET’S BUILD SOMETHING USEFUL.</text><text x="40" y="108" fill="#F5F7FA" font-size="40" font-weight="700" letter-spacing="-1">Good ideas deserve careful execution.</text><text x="42" y="155" fill="#98A2B3" font-size="19" font-weight="400" >patelved3313@gmail.com</text><circle cx="1127" cy="99" r="34" fill="#7C9CFF" stroke="none" /><text x="1127" y="111" fill="#0B0F19" font-size="36" font-weight="400" text-anchor="middle">↗</text>
 </g>
-<circle cx="552" cy="68" r="22" fill="#D5FF70" />
-<path d="M543 77L561 59M545 59H561V75" stroke="#101210" stroke-width="2" />
 </svg>

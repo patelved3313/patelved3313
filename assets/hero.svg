@@ -1,41 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="524" viewBox="0 0 1200 524" fill="none" role="img" aria-labelledby="title">
 <title id="title">Ved Patel. AI and full-stack development. Complex problems. Thoughtful software. Toronto, Canada. Software engineer. Recent Seneca Polytechnic graduate.</title>
-<defs>
-  <pattern id="dots" x="780" y="150" width="24" height="24" patternUnits="userSpaceOnUse">
-    <circle r="0.8" fill="#48503F" />
-  </pattern>
-</defs>
 <g font-family="Arial, Helvetica, sans-serif">
-<rect x="0" y="0" width="1200" height="524" rx="20" fill="#101210" stroke="none"/>
-<rect x="32" y="32" width="44" height="44" rx="12" fill="#D5FF70" stroke="none"/>
-<text x="42" y="61" fill="#101210" font-size="25" font-weight="700" >vp</text>
-<text x="94" y="51" fill="#F1F3E8" font-size="16" font-weight="700" letter-spacing="2">VED PATEL / ENGINEERING</text>
-<text x="94" y="73" fill="#A8B09F" font-size="13" font-weight="400" letter-spacing="2">TORONTO, CANADA</text>
-<text x="1160" y="61" fill="#A8B09F" font-size="14" font-weight="400" text-anchor="end" letter-spacing="1">IDEA → SYSTEM → PRODUCT</text>
-<path d="M40 100L1160 100" stroke="#343B31" />
-<text x="48" y="159" fill="#D5FF70" font-size="15" font-weight="700" letter-spacing="3">SOFTWARE ENGINEER / AI + FULL STACK</text>
-<text x="40" y="257" fill="#F1F3E8" font-size="100" font-weight="700" letter-spacing="-6">VED PATEL.</text>
-<text x="48" y="317" fill="#F1F3E8" font-size="38" font-weight="400" letter-spacing="-1">Complex problems.</text>
-<text x="48" y="363" fill="#D5FF70" font-size="38" font-weight="400" letter-spacing="-1">Thoughtful software.</text>
-<text x="48" y="415" fill="#A8B09F" font-size="21" font-weight="400" >From the first sketch to the final deploy.</text>
-<path d="M40 458L1160 458" stroke="#343B31" />
-<circle cx="54" cy="490" r="4" fill="#D5FF70" stroke="none" />
-<text x="68" y="496" fill="#A8B09F" font-size="14" font-weight="400" letter-spacing="1.5">PRODUCT THINKING. ENGINEERING CARE.</text>
-<text x="1156" y="496" fill="#A8B09F" font-size="13" font-weight="400" text-anchor="end" letter-spacing="1">SENECA POLYTECHNIC GRADUATE</text>
-<rect x="758" y="127" width="398" height="306" rx="16" fill="#191D18" stroke="#343B31"/>
-<rect x="776" y="146" width="368" height="272" fill="url(#dots)" />
-<text x="780" y="156" fill="#A8B09F" font-size="12" font-weight="700" letter-spacing="2">THE BUILD LOOP</text>
-<text x="1134" y="156" fill="#D5FF70" font-size="12" font-weight="400" text-anchor="end">01 / ∞</text>
-<g transform="translate(957 280)">
-<ellipse rx="134" ry="54" transform="rotate(-35)" stroke="#D5FF70" stroke-opacity=".65" stroke-width="1.5"/>
-<ellipse rx="134" ry="54" transform="rotate(35)" stroke="#D5FF70" stroke-opacity=".65" stroke-width="1.5"/>
-<ellipse rx="134" ry="54" transform="rotate(90)" stroke="#D5FF70" stroke-opacity=".65" stroke-width="1.5"/>
-<circle cx="0" cy="0" r="39" fill="#101210" stroke="#D5FF70" />
-<text x="0" y="9" fill="#F1F3E8" font-size="31" font-weight="700" text-anchor="middle">vp</text>
-</g>
-<circle cx="851" cy="204" r="5" fill="#D5FF70" stroke="none" />
-<circle cx="1063" cy="356" r="5" fill="#D5FF70" stroke="none" />
-<rect x="780" y="380" width="352" height="33" rx="6" fill="#101210" stroke="#343B31"/>
-<text x="956" y="401" fill="#F1F3E8" font-size="13" font-weight="400" text-anchor="middle" letter-spacing="2">DESIGN  /  ENGINEER  /  SHIP</text>
+<rect x="0" y="0" width="1200" height="524" rx="20" fill="#0B0F19" stroke="none"/>
+<rect x="32" y="32" width="44" height="44" rx="12" fill="#7C9CFF" stroke="none"/><text x="42" y="61" fill="#0B0F19" font-size="25" font-weight="700" >vp</text><text x="94" y="51" fill="#F5F7FA" font-size="16" font-weight="700" letter-spacing="2">VED PATEL / ENGINEERING</text><text x="94" y="73" fill="#98A2B3" font-size="13" font-weight="400" letter-spacing="2">TORONTO, CANADA</text><text x="1160" y="61" fill="#98A2B3" font-size="14" font-weight="400" text-anchor="end" letter-spacing="1">IDEA → SYSTEM → PRODUCT</text><path d="M40 100L1160 100" stroke="#283249" /><text x="48" y="159" fill="#7C9CFF" font-size="15" font-weight="700" letter-spacing="3">SOFTWARE ENGINEER / AI + FULL STACK</text><text x="40" y="257" fill="#F5F7FA" font-size="100" font-weight="700" letter-spacing="-6">VED PATEL.</text><text x="48" y="317" fill="#F5F7FA" font-size="38" font-weight="400" letter-spacing="-1">Complex problems.</text><text x="48" y="363" fill="#7C9CFF" font-size="38" font-weight="400" letter-spacing="-1">Thoughtful software.</text><text x="48" y="415" fill="#98A2B3" font-size="21" font-weight="400" >From the first sketch to the final deploy.</text><path d="M40 458L1160 458" stroke="#283249" /><circle cx="54" cy="490" r="4" fill="#7C9CFF" stroke="none" /><text x="68" y="496" fill="#98A2B3" font-size="14" font-weight="400" letter-spacing="1.5">PRODUCT THINKING. ENGINEERING CARE.</text><text x="1156" y="496" fill="#98A2B3" font-size="13" font-weight="400" text-anchor="end" letter-spacing="1">SENECA POLYTECHNIC GRADUATE</text><rect x="758" y="127" width="398" height="306" rx="16" fill="#121826" stroke="#283249"/><defs><pattern id="dots" x="780" y="150" width="24" height="24" patternUnits="userSpaceOnUse"><circle r=".8" fill="#283249"/></pattern></defs><rect x="778" y="148" width="364" height="268" fill="url(#dots)"/><text x="780" y="156" fill="#98A2B3" font-size="12" font-weight="700" letter-spacing="2">THE BUILD LOOP</text><text x="1134" y="156" fill="#7C9CFF" font-size="12" font-weight="400" text-anchor="end">01 / ∞</text><g transform="translate(957 280)"><ellipse rx="134" ry="54" transform="rotate(-35)" stroke="#7C9CFF" stroke-opacity=".65" stroke-width="1.5"/><ellipse rx="134" ry="54" transform="rotate(35)" stroke="#7C9CFF" stroke-opacity=".65" stroke-width="1.5"/><ellipse rx="134" ry="54" transform="rotate(90)" stroke="#7C9CFF" stroke-opacity=".65" stroke-width="1.5"/><circle cx="0" cy="0" r="39" fill="#0B0F19" stroke="#7C9CFF" /><text x="0" y="9" fill="#F5F7FA" font-size="31" font-weight="700" text-anchor="middle">vp</text></g><circle cx="851" cy="204" r="5" fill="#7C9CFF" stroke="none" /><circle cx="1063" cy="356" r="5" fill="#7C9CFF" stroke="none" /><rect x="780" y="380" width="352" height="33" rx="6" fill="#0B0F19" stroke="#283249"/><text x="956" y="401" fill="#F5F7FA" font-size="13" font-weight="400" text-anchor="middle" letter-spacing="2">DESIGN  /  ENGINEER  /  SHIP</text>
 </g>
 </svg>
