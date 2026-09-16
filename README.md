@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg" />
+    <source media="(max-width: 900px)" srcset="./assets/hero-mobile.svg" />
     <img src="./assets/hero.svg" width="100%" alt="Ved Patel — software engineer in Toronto. AI and full-stack products. Complex problems. Thoughtful software." />
   </picture>
 
@@ -85,7 +85,7 @@ Explore a chemical supplier’s catalog through searchable categories, product d
 ## Toolkit
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/stack-mobile.svg" />
+  <source media="(max-width: 900px)" srcset="./assets/stack-mobile.svg" />
   <img src="./assets/stack.svg" width="100%" alt="Interface: TypeScript, React, Next.js, Tailwind CSS, Vite. Systems: Node.js, Express, PostgreSQL, MongoDB, Prisma. Auth and delivery: Git, GitHub Actions, Vercel, Supabase, Firebase." />
 </picture>
 
@@ -112,7 +112,7 @@ Explore a chemical supplier’s catalog through searchable categories, product d
 
 <a href="mailto:patelved3313@gmail.com">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/footer-mobile.svg" />
+    <source media="(max-width: 900px)" srcset="./assets/footer-mobile.svg" />
     <img src="./assets/footer.svg" width="100%" alt="Let’s build something useful. Good ideas deserve careful execution. Email Ved at patelved3313@gmail.com." />
   </picture>
 </a>
